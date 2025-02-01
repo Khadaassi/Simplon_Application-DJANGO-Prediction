@@ -5,14 +5,15 @@
 
 ## ➤ Menu
 
-* [➤ Project Structure](#-project-structure)
-* [➤ How to Run](#-how-to-run)
-* [➤ Requirements](#-requirements)
-* [➤ Outputs](#-outputs)
-* [➤ Evaluation Criteria](#-evaluation-criteria)
-* [➤ Performance Metrics](#-performance-metrics)
-* [➤ License](#-license)
-* [➤ Authors](#-authors)
+* [Project Structure](#project-structure)
+* [How to Run](#how-to-run)
+* [Requirements](#requirements)
+* [Outputs](#outputs)
+* [Evaluation Criteria](#evaluation-criteria)
+* [Performance Metrics](#performance-metrics)
+* [License](#license)
+* [Authors](#authors)
+
 
 ---
 
