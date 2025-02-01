@@ -87,12 +87,7 @@ The application allows users to:
 
 ### Example Output
 
-<video width="600" controls>
-  <source src="MyApp/static/images/home_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<p align="center"><i>Screenshot/GIF showcasing the application usage.</i></p>
+<p align="center"><i>A demonstration video of the application is available in the folder: <code>MyApp/static/images/home_demo.mp4</code></i></p>
 
 ---
 
