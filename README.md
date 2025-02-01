@@ -87,9 +87,10 @@ The application allows users to:
 
 ### Example Output
 
-<p align="center">
-  <img src="MyApp/static/images/home_demo.gif" alt="Example of the interface" width="600"/>
-</p>
+<video width="600" controls>
+  <source src="MyApp/static/images/home_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p align="center"><i>Screenshot/GIF showcasing the application usage.</i></p>
 
